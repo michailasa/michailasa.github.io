@@ -12,7 +12,8 @@ body, html { height: 100% }
        padding-right: 5%
     }
     body {
-       background-color: aquamarine;
+       background-color:#130f40 ;
+       color: #95afc0;
     }
 }
 
@@ -23,7 +24,8 @@ body, html { height: 100% }
        padding-right: 20%
     }
     body {
-      background-color: aquamarine;
+      background-color: #130f40;
+      color: #95afc0;
    }
 }
 
@@ -109,7 +111,7 @@ h3 {
 }
 
 h1,h2,h3 {
-   color: red;
+   color: rgb(224, 127, 192);
 }
  /* ==== PARAGRAPHS ==== */
 
