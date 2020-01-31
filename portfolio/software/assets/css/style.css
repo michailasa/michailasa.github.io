@@ -29,7 +29,8 @@ body { font-family: 'Roboto', sans-serif; background-color: #f5f5f5 }
 /* on desktops - hide mobile menu bar and list of menu options */
 @media all and (min-width:768px) { 
     .container-menu-bar-mobile.menu-transparent,
-    .container-menu-bar-mobile.menu-light,
+	.container-menu-bar-mobile.menu-light,
+	.container-menu-bar-mobile.menu-dark,
     .flyout-menu.menu-transparent,
     .flyout-menu.menu-light { display: none }
 }
